@@ -1,0 +1,79 @@
+
+.main-rectangle
+{   
+        height: 70vh;
+        width: 100%;
+        background-color:#810725;
+        margin-top: 15vh;
+        
+        
+}
+.heading
+{
+    color:white;
+    text-align: left;
+    padding-top: 20%;
+    padding-left: 10%;
+    font-size: 8vh;
+    font-family:Georgia, Times, 'Times New Roman', serif;
+}
+.black-rectangle{
+    background-color: black;
+    height: 100%;
+    width: auto;
+    margin-top: 10%;
+  
+}
+.book-image{
+    height:70%;
+    width: 100%;
+    margin-left:-1%;
+    margin-top:2rem;
+}
+.about-para{
+    color: white;
+    font-size: 3vh;
+    text-align: justify;
+}
+.student-image{
+    width:50%;
+    height:60%;
+    margin-top:30%;
+    margin-left: 20%;
+}
+
+.team-black-rect{
+    
+    background-color:black ;
+    height:15rem;
+    margin-top: 190vh;
+ }
+
+.team-heading{
+    color:white;
+    text-align: center;
+    padding: 2rem;
+    font-size: 8vh;
+    
+}
+
+
+.team-details{
+    
+    margin-top: -10%;
+    text-align: center;
+    
+}
+.team-image{
+    height:30vh;
+}
+
+.PageFooter
+{
+    background-color:#810725 ;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    top:150px;
+    
+}
